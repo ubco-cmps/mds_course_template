@@ -1,7 +1,4 @@
-(page_Course_Schedule)=
-Course Schedule
-=======================
-
+## Schedule
 | Class # | Date                   | Course Topics                    |
 |---------|------------------------|----------------------------------|
 | 1       | Wednesday September 8  | Course and Platform Introduction |

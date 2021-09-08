@@ -38,7 +38,7 @@ All course content, references, and resources provided in this course are free a
 
 ## Schedule
 
-```{include} syllabus_bits/schedule.md
+```{include} syllabus_bits/course_schedule.md
 ```
 
 The best way to get personalized help in this course is to attend the labs and student hours we have scheduled for this course.
