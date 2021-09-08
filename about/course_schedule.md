@@ -2,19 +2,19 @@
 Course Schedule
 =======================
 
-| Class # | Date                   | Course Topics                                                     | Readings  |
-| ------- | ---------------------- | ----------------------------------------------------------------- | --------- |
-| 1       | Wednesday September 9  | Course and Platform Introduction                                  | Lecture 1 |
-| 2       | Monday September 14    | Data Formats                                                      | Lecture 2 |
-| 3       | Wednesday September 16 | Introduction to Excel                                             | Lecture 3 |
-| 4       | Monday September 21    | Excel Data Analysis                                               | Lecture 4 |
-| 5       | Wednesday September 23 | Excel Macros and Automation                                       | Lecture 5 |
-| 6       | Monday September 28    | Online Services                                                   | Lecture 6 |
-| 7       | Wednesday September 30 | Quiz 1                                                            | Lecture 7 |
-| 8       | Monday October 5       | Debugging                                                         | Lecture 8 |
-| 9       | Wednesday October 7    | Quiz 2                                                            | Lecture 9 |
+| Class # | Date                   | Course Topics                    |
+|---------|------------------------|----------------------------------|
+| 1       | Wednesday September 8  | Course and Platform Introduction |
+| 2       | Monday September 13    | Data Formats                     |
+| 3       | Wednesday September 15 | Introduction to Excel            |
+| 4       | Monday September 20    | Excel Data Analysis              |
+| 5       | Wednesday September 22 | Excel Macros and Automation      |
+| 6       | Monday September 27    | Online Services                  |
+| 7       | Wednesday September 29 | Debugging                        |
+| 8       | Monday October 4       | Quiz 1 - Timed, online           |
+| 9       | Wednesday October 6    | Quiz 2 - Take-home               |
 
-## Lecture Learning Outcomes
+## Course Learning Outcomes
 
 1. Course and Platform Introduction
 	- understand MDS structure and goals
@@ -77,14 +77,12 @@ Course Schedule
 	- list some trade-offs of using cloud services versus building using in-house tools such as R and Python
 	- explain the role of Google Analytics and Google AdWords. Compare and contrast what these two services provide.
 
-7. Libraries, Documentation, and Help
-	- understand different resources and techniques for getting help in R and Python.
-	- read and apply standard documentation for R and Python.
-	- understand the importance of using libraries to improve code development efficiency and reliability.
-	- practice finding a library, reading its documentation, and applying its methods to solve a problem.
-
-8. Debugging
+7. Debugging, Libraries, and Documentation
 	- define: debugging
 	- list and explain the 4 key steps of debugging.
 	- list and identify three types of program errors: syntax errors, logic errors, and exceptions.
 	- be able to debug Python and R code.
+	- understand different resources and techniques for getting help in R and Python.
+	- read and apply standard documentation for R and Python.
+	- understand the importance of using libraries to improve code development efficiency and reliability.
+	- practice finding a library, reading its documentation, and applying its methods to solve a problem.
