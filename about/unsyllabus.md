@@ -12,6 +12,7 @@
 | Term              | {{ TERM }}                                                                                                                                         |
 | Instructor        | {{ INSTRUCTOR }}                                                                                                                                   |
 | Lectures          | {{ MEETING_TIMES }}: {{ ROOM }}                                                                                                                  |
+| Labs          | {{ LAB_TIMES }}: {{ ROOM }}                                                                                                                  |
 | Student Hours     | To get live 1 on 1 help in the course, use {{ ZOOM_LINK.replace('CANVAS_ID',CANVAS_ID) }} at various times (see below for schedule).               |
 | Canvas URL        | {{ CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID) }}                                                                                                   |
 | Course Discussion | To ask any course-related questions, use private (personal, not useful for anyone else) or public (helpful for other) messages on {{ FORUM_LINK }} |
@@ -202,10 +203,6 @@ The course is designed to give you maximum flexibility:
 - Every deadline has a {{ GRACE_PERIOD }} grace period that is automatically applied.
 - There is no late penalty if you use the grace period
 - You can use the grace period an unlimited amount of time in the course (though if it happens every week and for every assignment, I might check in with you and gently encourage you not to leave things to the last minute)
-
-```{tip}
-Remember, if you miss a Test for whatever reason, you can make it up the following week in the bonus test!
-```
 
 If you miss a deadline by more than the grace period, the general course policy is that you will not be able to get full credit for it, and in many cases, may even get a 0 for it.
 In the cases of Tests, it is not possible to get partial credit, or complete it at times other than within the scheduled windows.
